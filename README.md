@@ -35,12 +35,12 @@ Tengo experiencia con **Python**, **SQL**, y técnicas de **Machine Learning**, 
 ### 🔍 **Predicción de Cancelación de Clientes**
 - **Descripción**: Modelo para predecir la tasa de cancelación en telecomunicaciones.
 - **Tecnologías**: Python, CatBoost, pandas.
-- [📂 Ver repositorio](https://github.com/Juan-Villano/project-1)
+- [📂 Ver repositorio](https://github.com/Juan-Villano/Proyecto_Interconnect)
 
 ### 🚗 **Estimación de Precios de Coches Usados**
 - **Descripción**: Modelo predictivo para valores de mercado de vehículos.
 - **Tecnologías**: Python, LightGBM, regresión lineal.
-- [📂 Ver repositorio](https://github.com/Juan-Villano/project-2)
+- [📂 Ver repositorio](https://github.com/Juan-Villano/PROYECTO_RUSTY_BARGAIN)
 
 ---
 
