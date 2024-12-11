@@ -46,7 +46,7 @@ Tengo experiencia con **Python**, **SQL**, y técnicas de **Machine Learning**, 
 
 ## 🌐 Encuéntrame en
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil/">
+  <a href="https://www.linkedin.com/in/juan-villano-leyva-60710b250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Juan-Villano">
