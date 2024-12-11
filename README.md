@@ -1,7 +1,7 @@
 
 <!-- Banner inicial -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link/data-science-banner.gif" alt="Científico de Datos" width="800">
+  <img src="https://github.com/Juan-Villano/Juan-Villano/blob/main/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg" alt="Científico de Datos" width="800">
   <h1>👋 ¡Hola! Soy Juan Santiago Villano Leyva</h1>
   <h3 style="color:#4CAF50;">Científico de Datos Jr. | Python, SQL, Machine Learning</h3>
 </div>
